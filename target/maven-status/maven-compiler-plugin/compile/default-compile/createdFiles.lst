@@ -1,0 +1,4 @@
+view\backing\LogicBean.class
+com\mycompany\PrimeFaces\resources\JavaEE8Resource.class
+com\mycompany\PrimeFaces\JAXRSConfiguration.class
+view\backing\Student.class
